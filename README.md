@@ -5,7 +5,6 @@ Date - 10/01/2026
 
 - [x] Learningn Linux 
  - user & group management
-   - link 
  - acces control list 
  - linux advancd file security
  - how to use filter command 
@@ -14,3 +13,15 @@ Date - 10/01/2026
  - linux soft link / hard link
  - history of lunix
  - linux miscellaneous
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date 22/01/26 - 28/01/26
+
+- [x] Windows Server 
+  - 
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 29/01/26
+
+
