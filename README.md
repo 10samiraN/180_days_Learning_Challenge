@@ -22,6 +22,15 @@ Date 22/01/26 - 28/01/26
   - 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-Date - 29/01/26
+Date - 29/01/26 - 06/03/26
+
+- Reconnaissance / Footprinting
+- Scanning
+- Enumeration
+- Exploitation
+- Post Exploitatio
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png)
+
 
 
