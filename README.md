@@ -1,3 +1,6 @@
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 # 180_days_Learning_Challenge
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -30,7 +33,7 @@ Date - 29/01/26 - 06/03/26
 - Exploitation
 - Post Exploitatio
 
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png)
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
