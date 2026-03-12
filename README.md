@@ -31,9 +31,18 @@ Date - 29/01/26 - 06/03/26
 - Scanning
 - Enumeration
 - Exploitation
-- Post Exploitatio
+
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 11/03/26 
+Strted System Hacking
+Crunch
+Hashcat
+
+12/03/26
+Practiced Hashcat
+crunch
 
 
 
