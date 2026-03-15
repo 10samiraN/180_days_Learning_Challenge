@@ -41,8 +41,14 @@ Crunch
 Hashcat
 
 12/03/26
+---------
 Practiced Hashcat
 crunch
+
+13/03/26
+---------
+John The Ripper
+Hydra
 
 
 
