@@ -50,5 +50,6 @@ crunch
 John The Ripper
 Hydra
 
+![Golden Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png)
 
 
