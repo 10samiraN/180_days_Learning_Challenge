@@ -50,6 +50,17 @@ crunch
 John The Ripper
 Hydra
 
-![Golden Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png)
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+18/03/26
+Start - Jr Penetration Tester
+Introduction To Cyber Security
++ Introduction Pentesting
+   - Pentesting Fundamentals
+   - Priciples of Security
+
+ + Introduction To WebHacking
+     - Walking An Application
+     - 
 
 
