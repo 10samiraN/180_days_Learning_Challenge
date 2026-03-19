@@ -61,6 +61,7 @@ Introduction To Cyber Security
 
  + Introduction To WebHacking
      - Walking An Application
-     - 
-
+ (19/03/26) - Content Discovery
+      -  Subdomain Enumeration
+      - Authentication Bypass
 
