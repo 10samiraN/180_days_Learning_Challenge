@@ -64,4 +64,7 @@ Introduction To Cyber Security
  (19/03/26) - Content Discovery
       -  Subdomain Enumeration
       - Authentication Bypass
+ (20/03/26)
+      - IDOR
+      - File Inclusion 
 
