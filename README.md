@@ -67,4 +67,5 @@ Introduction To Cyber Security
  (20/03/26)
       - IDOR
       - File Inclusion 
-
+(21-03-26)
+      - Intro SSRF
