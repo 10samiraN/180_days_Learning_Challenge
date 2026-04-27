@@ -74,3 +74,13 @@ Introduction To Cyber Security
 (23-03-26)
       - Reviced
       - 
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+From 24-03 to 27-03-26 
+SQL Injection
+Authentication Vulnerabilities
+Directory Traversal
+OS Command Injection
+Some Health issue 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
