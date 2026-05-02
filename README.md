@@ -86,5 +86,5 @@ Some Health issue
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 (28 Aprl - 5-2-26)
-Business Logic
-Information Disclosur
+ - Business Logic
+ - Information Disclosur
